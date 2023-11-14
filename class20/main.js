@@ -1,0 +1,13 @@
+var landmarks = [
+    "Eiffel Tower",
+    "Great Wall of China",
+    "Statue of Liberty",
+    "Machu Picchu",
+    "Taj Mahal",
+    "Pyramids of Giza",
+];
+// Print the list of landmarks
+console.log("List of Landmarks:");
+for (var i = 0; i < landmarks.length; i++) {
+    console.log(landmarks[i]);
+}
